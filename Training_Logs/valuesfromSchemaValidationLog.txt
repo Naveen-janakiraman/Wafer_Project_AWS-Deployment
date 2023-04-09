@@ -1,0 +1,2 @@
+2023-04-08/18:22:42		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
