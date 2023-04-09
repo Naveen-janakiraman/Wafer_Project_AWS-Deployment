@@ -50,7 +50,7 @@ class Preprocessor:
                         Output: Returns two separate Dataframes, one containing features and the other containing Labels .
                         On Failure: Raise Exception
 
-                        Written By: iNeuron Intelligence
+                        Written By: Naveen Janakiraman
                         Version: 1.0
                         Revisions: None
 
@@ -74,7 +74,7 @@ class Preprocessor:
                                 Output: Returns a Boolean Value. True if null values are present in the DataFrame, False if they are not present.
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+                                Written By: Naveen Janakiraman
                                 Version: 1.0
                                 Revisions: None
 
